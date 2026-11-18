@@ -1,0 +1,10 @@
+{
+  "name": "glmdockdemo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Fully procedural moody rainy shipping dock — from-scratch WebGL2 engine",
+  "scripts": {
+    "serve": "python -m http.server 8000"
+  }
+}
